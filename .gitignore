@@ -43,3 +43,7 @@ config_scripts
 
 
 temp/*
+
+*.apk
+*.zip
+*.exe
