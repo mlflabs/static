@@ -176,7 +176,9 @@
     "inviteFriend": "Invite Friend",
     "receivedFriendInvitation": "You have received friend invitation. Friend:",
     "receivedClashInvitation": "You have received party join invitation from",
-    "channel": "Party Name"
+    "channel": "Party Name",
+    "levelUpMessage": "New Level reached!!!!!!!!",
+    "goldUpMessage": "Getting Rich $$$$$"
   },
 
 
